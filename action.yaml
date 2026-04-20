@@ -9,7 +9,7 @@ description: Some description
 # https://docs.github.com/en/actions/reference/workflows-and-actions/metadata-syntax#author
 author: Some author
 # TODO set an icon for the action.
-# https://docs.github.com/en/actions/reference/workflows-and-actions/metadata-syntax#name
+# https://docs.github.com/en/actions/reference/workflows-and-actions/metadata-syntax#branding
 branding:
   icon: play-circle
   color: blue
