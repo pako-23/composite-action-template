@@ -1,13 +1,10 @@
 [![Latest Release](https://img.shields.io/github/v/release/{TODO add owner}/{TODO add repo name}?sort=semver)](https://github.com/{TODO add owner}/{TODO add repo name}/releases/latest)
 [![Lint YAML](https://github.com/{TODO add owner}/{TODO add repo name}/actions/workflows/lint.yaml/badge.svg)](https://github.com/{TODO add owner}/{TODO add repo name}/actions/workflows/lint.yaml)
+[![License](https://img.shields.io/github/license/{TODO add owner}/{TODO add repo name})](LICENSE)
 
 # TODO name the github action
 
 TODO add some description about what the action does.
-
-## Usage
-
-TODO add some description about how to use the action.
 
 ## Inputs
 
